@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DocTactProj</string>
+    <string name="intro_text">One Stop Solution For</string>
+    <string name="feature_name_text">Feature Name</string>
+    <string name="feature_desc_text">Lorem Ipsumm dasdkahs d asdhas hdka sd asldkja sdj asd lasdj as jdlaks jdas jldja sldkj</string>
+    <string name="doctact_intro">DocTact</string>
+    <string name="sad">click kar bsdk</string>
+    <string name="ptitle">Patient Profile</string>
+    <string name="kjlkj">Doctor Profile</string>
+    <string name="lpro">Lab Profile</string>
+    <string name="google_maps_api_key">AIzaSyB7Za4jSYYGRPxmwrSHmqZi9fqlVJNj4o4</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

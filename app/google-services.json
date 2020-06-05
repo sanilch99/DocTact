@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "346905027339",
+    "firebase_url": "https://doctact.firebaseio.com",
+    "project_id": "doctact",
+    "storage_bucket": "doctact.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346905027339:android:076b70585ca8891d",
+        "android_client_info": {
+          "package_name": "chawla.sanil.doctactproj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346905027339-m4dp8m0sjgf1kjii59c6vl9ec8cghkl7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "chawla.sanil.doctactproj",
+            "certificate_hash": "77eb85ccc897fb64107789ac16b53bd521918b83"
+          }
+        },
+        {
+          "client_id": "346905027339-8j4f58o9a5e32j09ep59gi69974dn2la.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLL_aAycESQaJe7KeRDVet3xgMju_-8h0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346905027339-8j4f58o9a5e32j09ep59gi69974dn2la.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
